@@ -1,5 +1,5 @@
 # 20240221_BookRec_Data   
-Data Link:    
+Data Link: https://dacon.io/competitions/official/236093/overview/description    
 
 ### - Goals: 데이터 입출력 및 전처리 연습
 ### - Data Name: 제2회 코스포 x 데이콘 도서 추천 알고리즘 AI경진대회
